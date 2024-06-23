@@ -1,0 +1,24 @@
+.team-wrapper {
+    display: flex;
+    justify-content: space-between;
+  }
+  .team-member {
+    width: 30%;
+    padding: 10px;
+    box-sizing: border-box;
+    text-align: center;
+    background-color: white;
+    border-radius: 5px;
+    color: black;
+    font-size: 0.8em;
+  }
+  .team-member img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+
+  #list-of-technology{
+    display: flex;
+    list-style: none;
+  }
